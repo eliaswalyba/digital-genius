@@ -1,0 +1,88 @@
+message,case_type,conversation_id,message_id,message_number,message_source
+"Hi, I’d like to cancel my order please.",cancel_order,1,1,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,1,2,2,agent
+"Sure, my order ID is A8B9V1E9 and account number is 87630823",cancel_order,1,3,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,1,4,4,agent
+"Hi, please give me some assistance cancelling my order.",cancel_order,2,5,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,2,6,2,agent
+"Yeah account number 09832453, order BSD932X0",cancel_order,2,7,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,2,8,4,agent
+"Hello, I need to cancel an order",cancel_order,3,9,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,3,10,2,agent
+"No worries, my order ID is BEDSW912, let me check the account number",cancel_order,3,11,3,customer
+Account number 67223023,cancel_order,3,12,4,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,3,13,5,agent
+"Hey hey, I ordered something yesterday but it was the wrong item – can I still cancel that?",cancel_order,4,14,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,4,15,2,agent
+Order ID 87GHE8EU and account number 98234321,cancel_order,4,16,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,4,17,4,agent
+"Hi, thanks for helping out – I want to cancel an order",cancel_order,5,18,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,5,19,2,agent
+yeah let me check two secs…,cancel_order,5,20,3,customer
+account number 01928340,cancel_order,5,21,4,customer
+order ID 09BA JH01,cancel_order,5,22,5,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,5,23,6,agent
+I need to cancel my order,cancel_order,6,24,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,6,25,2,agent
+"account number is 72934923, and order id is 987BGF12",cancel_order,6,26,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,6,27,4,agent
+"Hello, I ordered from your service yesterday but I changed my mind, I need to cancel",cancel_order,7,28,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,7,29,2,agent
+Order ID 987yh512 and account number 32430984,cancel_order,7,30,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,7,31,4,agent
+I’d like to cancel an order with you,cancel_order,8,32,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,8,33,2,agent
+"account number 85430982, order ID nbreg923",cancel_order,8,34,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,8,35,4,agent
+"Someone ordered something on my account, I need to cancel it",cancel_order,9,36,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,9,37,2,agent
+yeah AN 09823081 order 8n3f0238,cancel_order,9,38,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,9,39,4,agent
+I would like to cancel the order I made last week if it hasn’t shipped yet,cancel_order,10,40,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll see what the options are.,cancel_order,10,41,2,agent
+Order ID NB0293RJ and account number 09128342,cancel_order,10,42,3,customer
+"Great, thanks! I’ve just cancelled your order. Can I help with anything else?",cancel_order,10,43,4,agent
+"I paid for an order last week, what the hell is going on?",order_status,11,44,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,11,45,2,agent
+"account number 85430982, order ID nbreg923",order_status,11,46,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,11,47,4,agent
+Can you check if my order has shipped yet,order_status,12,48,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,12,49,2,agent
+account number 01928340,order_status,12,50,3,customer
+order ID 09BA JH01,order_status,12,51,4,customer
+Thank you! Please wait a minute while I check your order status.,order_status,12,52,5,agent
+"Hi, my order was supposed to arrive yesterday, any news?",order_status,13,53,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,13,54,2,agent
+"Yeah account number 09832453, order BSD932X0",order_status,13,55,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,13,56,4,agent
+"Hello there, please can I check where my order is",order_status,14,57,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,14,58,2,agent
+Order ID 987yh512 and account number 32430984,order_status,14,59,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,14,60,4,agent
+"Hello, I’d like to check if my order shipped yet",order_status,15,61,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,15,62,2,agent
+yeah let me check two secs…,order_status,15,63,3,customer
+account number 01928340,order_status,15,64,4,customer
+order ID 09BA JH01,order_status,15,65,5,customer
+Thank you! Please wait a minute while I check your order status.,order_status,15,66,6,agent
+"Hi, I have an order due to arrive today and not sure if I should stay home, can you check where it is?",order_status,16,67,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,16,68,2,agent
+"Sure, my order ID is A8B9V1E9 and account number is 87630823",order_status,16,69,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,16,70,4,agent
+Can I check what’s going on with my order from the weekend,order_status,17,71,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,17,72,2,agent
+"Of course, order ID 987yh512 and account number 32430984",order_status,17,73,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,17,74,4,agent
+"I’d like to find out where my order is guys, it’s the third time I’ve had a delay",order_status,18,75,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,18,76,2,agent
+Order ID NB0293RJ and account number 09128342,order_status,18,77,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,18,78,4,agent
+"Hey, do you know where my order is?",order_status,19,79,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,19,80,2,agent
+order ID 09BA JH01 and account 09834532,order_status,19,81,3,customer
+Thank you! Please wait a minute while I check your order status.,order_status,19,82,4,agent
+"Guys, I ordered something from you a month ago and nothing has arrived yet, do you have a good reason for this?",order_status,20,83,1,customer
+Of course! Let me assist. Please share your account number and order ID and I’ll check that up for you.,order_status,20,84,2,agent
+"No worries, my order ID is BEDSW912, let me check the account number",order_status,20,85,3,customer
+Account number 67223023,order_status,20,86,4,customer
+Thank you! Please wait a minute while I check your order status.,order_status,20,87,5,agent

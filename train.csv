@@ -1,0 +1,61 @@
+message,case_type
+Id like to cancel an order with you,cancel_order
+"Of course, order ID 987yh512 and account number 32430984",order_status
+"Hello, I need to cancel an order",cancel_order
+"Hello, Id like to check if my order shipped yet",order_status
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+"Yeah account number 09832453, order BSD932X0",cancel_order
+"Someone ordered something on my account, I need to cancel it",cancel_order
+Thank you! Please wait a minute while I check your order status.,order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Order ID 87GHE8EU and account number 98234321,cancel_order
+"Sure, my order ID is A8B9V1E9 and account number is 87630823",cancel_order
+Account number 67223023,order_status
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+order ID 09BA JH01,order_status
+Can I check whats going on with my order from the weekend,order_status
+Thank you! Please wait a minute while I check your order status.,order_status
+"Hi, my order was supposed to arrive yesterday, any news?",order_status
+"Hi, please give me some assistance cancelling my order.",cancel_order
+Thank you! Please wait a minute while I check your order status.,order_status
+"Sure, my order ID is A8B9V1E9 and account number is 87630823",order_status
+Order ID NB0293RJ and account number 09128342,cancel_order
+order ID 09BA JH01,cancel_order
+Thank you! Please wait a minute while I check your order status.,order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Thank you! Please wait a minute while I check your order status.,order_status
+account number 01928340,order_status
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+Of course! Let me assist. Please share your account number and order ID and Ill see what the options are.,cancel_order
+yeah let me check two secs,order_status
+"Hi, thanks for helping out  I want to cancel an order",cancel_order
+"No worries, my order ID is BEDSW912, let me check the account number",order_status
+Of course! Let me assist. Please share your account number and order ID and Ill see what the options are.,cancel_order
+Order ID NB0293RJ and account number 09128342,order_status
+"No worries, my order ID is BEDSW912, let me check the account number",cancel_order
+Thank you! Please wait a minute while I check your order status.,order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+order ID 09BA JH01,order_status
+Of course! Let me assist. Please share your account number and order ID and Ill see what the options are.,cancel_order
+"Hey, do you know where my order is?",order_status
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+"Hello, I ordered from your service yesterday but I changed my mind, I need to cancel",cancel_order
+Can you check if my order has shipped yet,order_status
+"Guys, I ordered something from you a month ago and nothing has arrived yet, do you have a good reason for this?",order_status
+Of course! Let me assist. Please share your account number and order ID and Ill see what the options are.,cancel_order
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+Of course! Let me assist. Please share your account number and order ID and Ill check that up for you.,order_status
+Account number 67223023,cancel_order
+"Id like to find out where my order is guys, its the third time Ive had a delay",order_status
+"Great, thanks! Ive just cancelled your order. Can I help with anything else?",cancel_order
+"Yeah account number 09832453, order BSD932X0",order_status
+"Hello there, please can I check where my order is",order_status
+Thank you! Please wait a minute while I check your order status.,order_status
+"Hi, I have an order due to arrive today and not sure if I should stay home, can you check where it is?",order_status
+account number 01928340,order_status
