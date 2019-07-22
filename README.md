@@ -35,6 +35,9 @@ For the 2 notebooks I suggest you open them using Google Colab (https://colab.re
 
 ## Author
 Elias W. BA
+
 Machine Learning Enthusiast
+
 eliaswalyba@gmail.com
+
 😍
