@@ -5,12 +5,20 @@ In this project I am asked to build machine learnings models for classifying tex
 A full description of the project is available here: https://github.com/eliaswalyba/digital-genius/blob/master/Machine%20Learning%20Engineer%20_%20Conversational%20AI%20Engineer%20-%20Technical.pdf
 
 ## What did I built ?
-I actually proposed 6 models for this project:
+I actually proposed 6 models for this project and you can find all of them [here]:https://github.com/eliaswalyba/digital-genius/blob/master/models.ipynb
+
 1. Simple Statistical Learning Models
-  a. Multinomial Naive Bayes Classifier
-  b. Logistic Regression
-  c. Linear Support Vector Machines
+  1.1. Multinomial Naive Bayes Classifier
+  1.2. Logistic Regression
+  1.3. Linear Support Vector Machines
 2. Pretrained Models
-  a. Word2Vec
-  b. Doc2Vec
+  2.1. Word2Vec
+  2.2. Doc2Vec
 3. A simple Neural Network Using Keras
+
+But before building the models I took some time to make exploratory data analysis with the dataset. You can find it [here]:https://github.com/eliaswalyba/digital-genius/blob/master/eda.ipynb
+
+I also deployed the model using [Flask]:https://palletsprojects.com/p/flask/ and all the code is available in []: https://github.com/eliaswalyba/digital-genius/tree/master/webapp
+
+## Screenshots
+![](https://raw.githubusercontent.com/eliaswalyba/digital-genius/master/Screenshot_20190722_185619.png)
