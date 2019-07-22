@@ -22,3 +22,19 @@ I also deployed the model using [Flask]:https://palletsprojects.com/p/flask/ and
 
 ## Screenshots
 ![](https://raw.githubusercontent.com/eliaswalyba/digital-genius/master/Screenshot_20190722_185619.png)
+![](https://raw.githubusercontent.com/eliaswalyba/digital-genius/master/Screenshot_20190722_185800.png)
+![](https://raw.githubusercontent.com/eliaswalyba/digital-genius/master/Screenshot_20190722_190336.png)
+
+## Usage
+$ git clone https://github.com/eliaswalyba/digital-genius
+$ conda env create -f environment.yml
+$ cd digital-genius/webapp
+$ python app.py
+
+For the 2 notebooks I suggest you open them using Google Colab (https://colab.research.google.com/)
+
+## Author
+Elias W. BA
+Machine Learning Enthusiast
+eliaswalyba@gmail.com
+😍
