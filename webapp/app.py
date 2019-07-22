@@ -13,7 +13,7 @@ def home():
 def predict():
     if request.method == 'POST':
         choosen_model = request.form["model"]
-        Classifier = open(f'../saved_models/{choosen_model}_model.pkl', 'rb')
+        Classifier = open(f'saved_models/{choosen_model}_model.pkl', 'rb')
         Classifier = joblib.load(Classifier)
         message = request.form['message']
         pred = Classifier.test([message])
